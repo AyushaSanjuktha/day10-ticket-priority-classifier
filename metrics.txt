@@ -1,0 +1,19 @@
+CV macro-F1: 0.940 +/- 0.009
+Test macro-F1: 0.888
+
+              precision    recall  f1-score   support
+
+         Low      0.923     0.980     0.950        49
+      Medium      0.885     0.885     0.885        61
+        High      0.853     0.806     0.829        36
+    Critical      0.923     0.857     0.889        14
+
+    accuracy                          0.894       160
+   macro avg      0.896     0.882     0.888       160
+weighted avg      0.893     0.894     0.893       160
+
+               pred_Low  pred_Medium  pred_High  pred_Critical
+true_Low             48            1          0              0
+true_Medium           4           54          3              0
+true_High             0            6         29              1
+true_Critical         0            0          2             12

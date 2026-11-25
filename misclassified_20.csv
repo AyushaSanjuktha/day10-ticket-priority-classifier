@@ -1,0 +1,21 @@
+text,true,predicted
+Slow checkout. Checkout takes over 30 seconds during evening hours Thanks.,Critical,High
+Profile photo upload fails. Uploading a PNG profile photo shows an error Customer called twice.,Low,Medium
+"Typo on About page. The About page says ""Seanergy"" with a spelling mistake in one place Please help.",Medium,Low
+Invoice amounts wrong. GST is calculated twice on invoices for some orders Please help.,Medium,High
+Wrong delivery date shown. Order O100406 shows the wrong expected delivery date Urgent!!,Low,Medium
+Footer link outdated. The footer still links to last year's offers page Thanks.,Medium,Low
+Report export slow. The monthly sales export takes 5 minutes Please help.,Low,Medium
+Invoice amounts wrong. GST is calculated twice on invoices for some orders Customer called twice.,Medium,High
+Invoice amounts wrong. GST is calculated twice on invoices for some orders Urgent!!,Medium,High
+"Search results not relevant. Searching for ""mouse"" shows bedsheets first Thanks.",Low,Medium
+Report export slow. The monthly sales export takes 5 minutes Please help.,High,Medium
+Email notifications delayed. Order confirmation emails arrive an hour late Seen since morning.,Low,Medium
+Data breach suspected. We see logins from unknown locations on admin accounts Urgent!!,High,Critical
+"Typo on About page. The About page says ""Seanergy"" with a spelling mistake in one place Raised by support team.",Medium,Low
+Email notifications delayed. Order confirmation emails arrive an hour late Not sure if it's related.,High,Medium
+Data breach suspected. We see logins from unknown locations on admin accounts,High,Critical
+Wrong delivery date shown. Order O100613 shows the wrong expected delivery date Please help.,High,Medium
+Invoice amounts wrong. GST is calculated twice on invoices for some orders,Medium,High
+Email notifications delayed. Order confirmation emails arrive an hour late Please help.,Low,Medium
+Email notifications delayed. Order confirmation emails arrive an hour late Urgent!!,High,Medium
